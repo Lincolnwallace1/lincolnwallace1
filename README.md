@@ -15,78 +15,62 @@ E-mail: lincolnwallace10@gmail.com.
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="TypeScript"
-  title="TypeScript" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img
-  align="left" 
-  alt="Node.JS"
-  title="Node.Js" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="PostgreSQL"
-  title="PostgreSQL" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<img 
-  align="left" 
-  alt="MongoDB"
-  title="MongoDB" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
-/>
-<img 
-  align="left" 
-  alt="RabbitMQ"
-  title="RabbitMQ" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" 
-/>         
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-  align="left" 
-  alt="Java" 
-  title="Java"
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img
+    alt="Node.JS"
+    title="Node.Js" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  />
+  <img 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+  />
+  <img 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+  />
+  <img 
+    alt="RabbitMQ"
+    title="RabbitMQ" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" 
+  />         
+  <img 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  />
+</div>
           
 
 <br/>
